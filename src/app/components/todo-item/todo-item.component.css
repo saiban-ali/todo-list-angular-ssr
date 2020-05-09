@@ -1,0 +1,21 @@
+div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+div p {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+button {
+  background-color: bisque;
+  padding: 5px;
+  border-radius: 25%;
+  border-width: 0px;
+}
